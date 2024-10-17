@@ -15,7 +15,7 @@ See https://pubs.opengroup.org/onlinepubs/7908799/xcurses/terminfo.html for term
 NB: not all capabilities are supported, but more can be added to the TERM_EVENTS below
 
 SDL2 event handling is based on EmulationStation's event handling, see
-https://github.com/RetroPie/EmulationStation/blob/62fd08c26d2f757259b7d890c98c0d7e212f6f84/es-core/src/InputManager.cpp#L205
+https://github.com/millecampskenny/EmulationStation/blob/62fd08c26d2f757259b7d890c98c0d7e212f6f84/es-core/src/InputManager.cpp#L205
 EmulationStation is authored by Alec "Aloshi" Lofquist (http://www.aloshi.com,http://www.emulationstation.org)
 
 This script uses the PySDL2 module from https://github.com/py-sdl/py-sdl2
