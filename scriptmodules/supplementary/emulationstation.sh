@@ -146,7 +146,7 @@ function depends_emulationstation() {
 function _get_branch_emulationstation() {
     if [[ -z "$branch" ]]; then
         if [[ "$__os_debian_ver" -gt 8 ]]; then
-            branch="stable"
+            branch="master"
         else
             branch="v2.7.6"
         fi
